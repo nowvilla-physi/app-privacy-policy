@@ -17,6 +17,7 @@ ul {
 li {
     margin-top: 16px;
     font-size: 20px;
+    list-style-type: square;
 }
 
 a {
